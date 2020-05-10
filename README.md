@@ -11,7 +11,7 @@ Exploring Distributed Version Control (DVCS) and Team Collaboration with GitHub.
 ## OUTLINE
 ### 1. [Terminology](./TERMS.md "Open File...")
 
-### 2. [[PDF] Absolute Beginner's Guide to Distributed Version Control (DVCS) and Team Collaboration with GitHub - Tugbeh, E.O.](./e-book.pdf "Open File...")
+### 2. [[PDF] Absolute Beginner's Guide to Distributed Version Control (DVCS) and Team Collaboration with GitHub - Tugbeh, E.O.](./github_guide_2gbeh.pdf "Open File...")
 
 ### 3. [List of software forks](./FORKS.md "Open File...")
 
