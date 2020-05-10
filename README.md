@@ -9,13 +9,13 @@ Exploring Distributed Version Control (DVCS) and Team Collaboration with GitHub.
 3. Branch: **sub-*** - other development environments (*leaves*)
 
 ## OUTLINE
-### [Terminology](./TERMS.md "Open File...")
+### 1. [Terminology](./TERMS.md "Open File...")
 
-### [[PDF] Absolute Beginner's Guide to Distributed Version Control (DVCS) and Team Collaboration with GitHub - Tugbeh, E.O.](./e-book.pdf "Open File...")
+### 2. [[PDF] Absolute Beginner's Guide to Distributed Version Control (DVCS) and Team Collaboration with GitHub - Tugbeh, E.O.](./e-book.pdf "Open File...")
 
-### [List of software forks](./FORKS.md "Open File...")
+### 3. [List of software forks](./FORKS.md "Open File...")
 
-### Branch Prefix
+### 4. Branch Prefix
 sub-* divisions
   alt-web* web
   alt-mob* mobile
