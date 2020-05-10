@@ -1,21 +1,18 @@
-### BADGES
+# BADGES
+`2020-05-10 02:32:15`
+## META
+[![Generic badge](https://img.shields.io/badge/Created-2020%2D05%2D10T02%3A32%3A15-1f425f.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Size-1.26%20KB-1f425f.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Contributors-3-1f425f.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Team-%40HWP%2DLabs-1f425f.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/Made%20With-PHP-blue.svg)](https://shields.io/)
+## API
+[![Generic badge](https://img.shields.io/badge/Made%20with-APEX%99-0093dd.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Made%20with-DESKTER%99-0093dd.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Made%20with-MANTIS%99-0093dd.svg)](https://shields.io/)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)
+## LANGUAGE
+[![Generic badge](https://img.shields.io/badge/Built%20with-ES6-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Built%20with-PHP-purple.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Built%20with-PYTHON-blue.svg)](https://shields.io/)
 
-[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
-
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![forthebadge made-with-php](http://ForTheBadge.com/images/badges/made-with-php.svg)](https://www.php.net/)
-
-[![forthebadge made-with-js](http://ForTheBadge.com/images/badges/made-with-js.svg)](https://www.javascript.com/)
-
-[![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
-
-[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
-
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
