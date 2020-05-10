@@ -1,5 +1,6 @@
 # baby-steps
-`2020-05-10 02:32:15` Exploring Distributed Version Control (DVCS) and Team Collaboration with GitHub.
+`2020-05-10 02:32:15` 
+Exploring Distributed Version Control (DVCS) and Team Collaboration with GitHub.
 
 ## DO NOT DELETE
 1. Branch: **master** - default production environment (*root*)
