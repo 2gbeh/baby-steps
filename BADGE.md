@@ -16,7 +16,7 @@
 ## LANGUAGE
 [![Generic badge](https://img.shields.io/badge/lang-.html-f16529.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/lang-.css-2965f1.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/lang-.js-f7df1e.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/lang-.js-f9df34.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/lang-.php-777bb3.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/lang-.sql-b8d432.svg)](https://shields.io/)
 
