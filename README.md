@@ -1,40 +1,27 @@
 # baby-steps
-`2020-05-10 02:32:15`
-
 Exploring Distributed Version Control (DVCS) and Collaboration with GitHub.
 
-## DO NOT DELETE
-1. Branch: **master** - default production environment (*root*)
-2. Branch: **super** - default development environment (*trunk*)
-3. Branch: **sub-*** - other development environments (*leaves*)
+`2020-05-10 02:32:15` 
 
-## OUTLINE
-### 1. [Terminology](./TERMS.md "Open File...")
+---
+### [Terminology](./TERMS.md "Open File...")
 
-### 2. [[PDF] Absolute Beginner's Guide to Distributed Version Control (DVCS) and Team Collaboration with GitHub - Tugbeh, E.O.](./github_guide_2gbeh.pdf "Open File...")
+### [Video Tutorials](./YOUTUBE.md "Open File...")
+*What is GitHub*
+https://youtu.be/w3jLJU7DT5E
+*Creating a Repository*
+https://youtu.be/iv8rSLsi1xo
+*Contribution Workflow*
+https://youtu.be/kWZzug6YRw8
+*Branches Pull Requests (PR)*
+https://youtu.be/LbanWJyLMnA
+*Collaboration Workflow*
+https://youtu.be/rgbCcBNZcdQ
+*GitHub Pages*
+https://youtu.be/BA_c3bGQXIQ
+*Rich-text Markdown*
+https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
-### 3. [List of software forks](./FORKS.md "Open File...")
+### [[PDF] Absolute Beginner's Guide to Distributed Version Control (DVCS) and Team Collaboration with GitHub - Tugbeh, E.O.](./github_guide_2gbeh.pdf "Open File...")
 
-### 4. Branch Prefix
-sub-* divisions
-  alt-web* web
-  alt-mob* mobile
-  alt-apk* android
-  alt-pkg* ios
-rev-* updates
-new-* upgrades
-fix-* bugs
-box-* tests
-fun-* ideas
-non-* misc
-doc-* documents
-dev-* components (htm, css, js, php, sql)
-  mod-* modules
-  job-* macros
-  app-* applications
-  api-* frameworks
-  lib-* libraries
-  res-* resources
-  gui-* interfaces
-  tmp-* templates
-git-* filesystems
+### [List of software forks](./FORKS.md "Open File...")
