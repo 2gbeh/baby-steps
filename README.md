@@ -14,6 +14,7 @@ Exploring Distributed Version Control (DVCS) and Collaboration with GitHub.
 * *Branches & Pull Requests (PR)* https://youtu.be/LbanWJyLMnA
 * *Collaboration Workflow* https://youtu.be/rgbCcBNZcdQ
 * *GitHub Pages* https://youtu.be/BA_c3bGQXIQ
+* *GitHub Classroom* https://youtu.be/ChA_zph7aao
 * *Rich-text Markdown* https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
 ### 4. [List of software forks](./FORKS.md "Open File...")
