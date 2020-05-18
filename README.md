@@ -17,4 +17,14 @@ Exploring Distributed Version Control (DVCS) and Collaboration with GitHub.
 * *GitHub Classroom* https://youtu.be/ChA_zph7aao
 * *Rich-text Markdown* https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
-### 4. [List of Software Forks](./FORKS.md "Open File...")
+### 4. [GitHub Products](#)
+* Atom - An open-source text-editor.
+* Electron - An open-source framework for developing desktop applications with JavaScript.
+
+### 5. [Prominent Users](https://github.com/d2s/companies/blob/master/src/index.md "Open Link")
+* Airbnb * Bloomberg * IBM * Facebook * Lyft * NASA * Netflix * node.js * PayPal * SAP * Shopify * Spotify * Switch (Nintendo) * Walmart
+* [others..](https://github.com/d2s/companies/blob/master/src/index.md)
+
+### 6. [Software Forks](./FORKS.md "Open File...")
+* Apache HTTP Server * Bitcoin Cash * Fire OS * FrostWire * io.js * Jenkins * Joomla * MariaDB * Microsoft SQL Server * Nokia X * Peppermint Linux OS * PostgreSQL * Safari (WebKit) * WordPress
+* [others..](./FORKS.md "Open File...")
