@@ -3,9 +3,9 @@ Exploring Distributed Version Control (DVCS) and Collaboration with GitHub.
 > Created 2020-05-10 02:32:15
 
 ---
-### 1. [[PDF] Glossary - Tugbeh, E.O.](./1_github_glossary_2gbeh.pdf "Open File...")
+### 1. [[PDF] Glossary - Tugbeh, E.O.](./1_github_glossary_2gbeh.png "Open File...")
 
-### 2. [[PDF] Getting Started - Tugbeh, E.O.](./2_github_getting_started_2gbeh.pdf "Open File...")
+### 2. [[PDF] Getting Started - Tugbeh, E.O.](./2_github_guide_2gbeh.png "Open File...")
 
 ### 3. [Video Tutorials](#)
 * *What is GitHub* https://youtu.be/w3jLJU7DT5E
